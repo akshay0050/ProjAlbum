@@ -1,0 +1,11 @@
+Project Details -
+Retrofit library used for network call
+Data get consume form "https://jsonplaceholder.typicode.com/albums"
+By defualt list get sorted bt Title(Alphabetically)
+Sort by Title and Sort by Id option provided in menu
+pull down refresh data option added
+
+Project future reference -
+Data can be save offline with help of sqlite or Online by firebase cloud db
+Details sharing option can be added to share data over mail or whatsapp
+Login option can be added with help of 3rd party api login (Google,Facebook)
