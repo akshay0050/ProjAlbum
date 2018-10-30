@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DemoProjAcc</string>
+    <string name="loading_msg">Loading please wait..</string>
+    <string name="no_conncection">Please check your Internet Connection and Try again</string>
+</resources>
